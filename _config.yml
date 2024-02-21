@@ -3,9 +3,9 @@ logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   M.Sc Computer Science with a strong background in Data Science. 
   
-  <br>
+  <br><br>
   Tools: Python, SQL, PowerBI, Azure Databricks, Excel 
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/darshan-bapodariya/">LinkedIn Profile</a> 
   <br>
   <a href="https://github.com/DarshanBapodariya?tab=repositories">GitHub Repo</a>
