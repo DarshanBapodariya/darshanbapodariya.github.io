@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Tools: Python, SQL, PowerBI, Azure Databricks, Excel 
   <br><br>
   <a href="https://www.linkedin.com/in/darshan-bapodariya/">LinkedIn Profile</a> 
-  <br>
+ 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
